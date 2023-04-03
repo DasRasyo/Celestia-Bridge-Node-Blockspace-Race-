@@ -10,6 +10,7 @@ CPU: 6 cores <br/>
 Disk: 500 GB SSD Storage <br/>
 Bandwidth: 1 Gbps for Download/100 Mbps for Upload <br/>
 Ubuntu Linux 20.04 (LTS) <br/>
+NOT: Bridge node celestia-app ile birlikte çalışacağı için daha iyi özelliklerde bir sistem daha faydalı olacaktır. <br/>
 
 
 ## Sistem güncellemerini yaparak başlıyoruz.
