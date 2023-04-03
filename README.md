@@ -64,7 +64,7 @@ celestia-appd version
 0.12.1
 ```
 
-## P2P network kurulumu ile devam ediyoruz
+## P2P network indirerek devam ediyoruz
 
 ```
 cd $HOME
