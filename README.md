@@ -61,7 +61,7 @@ celestia-appd version
 Çıktı şu şekilde olmalı:
 
 ```
-0.12.1
+v0.13.0
 ```
 
 ## P2P network indirerek devam ediyoruz
@@ -152,7 +152,6 @@ celestia version
 
 ```
 Semantic version: v0.9.5 
-Commit: 2718b1dfb7ee4fbcc8614601dc7d58019bfb1437
 ```
 
 ## Init işlemi ile devam ediyoruz. Bu işlemin ardından cüzdanımız oluşacak, cüzdan adresimizi ve kelimlerimizi alacağız. Bunları yedeklemeyi unutmayın!!!
